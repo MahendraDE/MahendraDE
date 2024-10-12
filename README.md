@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MahendraDE
-- 👀 I’m interested in Data Engineering 
-- 🌱 I’m currently learning PySpark AWS 
+- 👋 Hi, I’m Maddy
+- 👀 I’m a Data Engineer 
+- 🌱 I’m currently learning PySpark, AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
